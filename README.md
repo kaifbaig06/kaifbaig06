@@ -1,3 +1,9 @@
+![Untitled design (12)](https://github.com/user-attachments/assets/f5cf7fe0-d984-4767-a635-527de0b682cc)
+
+
+
+
+
 <h1 align="center">Hello World 👋, I'm Kaif Baig</h1>
 <h3 align="center">Aspiring Data Analyst | Exploring the World of Data</h3>
 
