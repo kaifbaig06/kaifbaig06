@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hello World 👋, I'm Kaif Baig</h1>
-<h3 align="center">Aspiring Data Analyst | Exploring the World of Data</h3>
+<h3 align="center">Passionate Data Analyst | Exploring the World of Data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifbaig06&label=Profile%20views&color=0e75b6&style=flat" alt="kaifbaig06" /> </p>
 
